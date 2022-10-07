@@ -1,6 +1,6 @@
 package Thread;
 
-public class homework {
+public class ticket {
     public static void main(String[] args) {
         System.out.println("共有10000張高鐵票");
         ticketClass t1 = new ticketClass("售票機1");
